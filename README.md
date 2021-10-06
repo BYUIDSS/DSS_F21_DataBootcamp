@@ -1,1 +1,2 @@
-# DSS_F21_DataBootcamp
+# Data Boot Camp (📊 🥾 ⛺)
+### *Fall Semester 2021*
